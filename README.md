@@ -3,6 +3,7 @@ This is a repository which contains all the costumes I could find from Clea and 
 
 
 --------------------------------------------------------
+
 How to create and install costume mods: https://steamcommunity.com/sharedfiles/filedetails/?id=1789431541
 
 Clea: https://store.steampowered.com/app/981020/Clea/
@@ -14,4 +15,5 @@ Subscribe to our newsletter for early access to news, previews and demos: https:
 Join our friendly discord: https://discord.gg/Z2yP6fkqCr
 
 Thank you for your support!
+
 ---------------------------------------------------------
